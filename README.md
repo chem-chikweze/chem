@@ -1,5 +1,5 @@
 # chem
-I find it hard to study so do my friends:
+I find it hard to study and so do my friends:
 So why don't I make an app that will help me with a study schedule?
 I could connect my friends and we could study together
 
